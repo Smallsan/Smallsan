@@ -13,8 +13,6 @@
       <a href="https://github.com/Smallsan?tab=repositories&q=&type=&language=python&sort="><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/Smallsan?tab=repositories&q=&type=&language=rust&sort="><img alt="Rust" src="https://custom-icon-badges.demolab.com/badge/Rust-886455.svg?logo=rustttt&logoColor=white"></a>
       <a href="https://github.com/Smallsan?tab=repositories&q=&type=&language=typescript&sort="><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-      <a href="https://github.com/Smallsan?tab=repositories&q=&type=&language=php&sort="><img alt="Php" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=phppplogo&logoColor=white"></a>
-
   </p>
 
   
